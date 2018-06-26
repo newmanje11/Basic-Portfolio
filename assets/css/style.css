@@ -1,0 +1,20 @@
+h1 {
+    background-color:  darkred;
+    color: white;
+    padding: 20px;
+    margin-left:50px;
+    width: 25%;
+    float: left;
+}
+a { 
+    background-color: lightgray;
+    padding: 30px;
+    float: left;
+    color: black;
+    
+}
+body {
+    clear: both;
+    overflow: auto;
+    background-color: gray;
+}
