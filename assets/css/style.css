@@ -81,14 +81,31 @@ img {
     background: #4aaaa5;
     color: #ffffff;
     padding: 20px;
-    margin: 30px 30px;
+    margin-top: 30px;
+}
+
+input {
+    width :95%;
+    margin: 5px;
+}
+
+textarea { 
+  width: 95%;
+  height: 125px;
+  margin: 5px;  
+}
+
+#pic { 
+    width: 225px;
+    height: 225px;
+    display: block;
 }
 
 
 footer {
+    text-align: center;
     clear: both;
     overflow: auto;
-    text-align: center;
     background: #777777;
     color: white;
     bottom: 0px;
